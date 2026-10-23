@@ -1,1 +1,10 @@
-
+Start.
+Create a parent class PARENT with two assets and a method to display them.
+Create a child class Child that inherits from PARENT.
+Get customer details and electricity units as input.
+If units are negative, display an error message.
+Otherwise, calculate the bill based on the units consumed.
+Display customer details and the total bill amount.
+Create an object of the Child class.
+Call the parent method and the electricity bill method.
+Stop.
