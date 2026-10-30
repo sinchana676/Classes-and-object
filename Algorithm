@@ -1,10 +1,18 @@
-Start.
-Create a parent class PARENT with two assets and a method to display them.
-Create a child class Child that inherits from PARENT.
-Get customer details and electricity units as input.
-If units are negative, display an error message.
-Otherwise, calculate the bill based on the units consumed.
-Display customer details and the total bill amount.
-Create an object of the Child class.
-Call the parent method and the electricity bill method.
-Stop.
+AIM
+To write a Python program using inheritance to calculate an electricity bill by creating a parent class PARENT and a child class Child.
+
+ALGORITHM
+
+Step 1: Start.
+Step 2: Create a parent class named PARENT with two attributes.
+Step 3: Define a method in the parent class to display the two attributes.
+Step 4: Create a child class named Child that inherits from the parent class.
+Step 5: Get customer details and electricity units as input.
+Step 6: Check whether the electricity units are negative. If negative, display an error message.
+Step 7: Otherwise, calculate the electricity bill based on the units consumed.
+Step 8: Display the customer details and total bill amount.
+Step 9: Create an object of the Child class.
+Step 10: Call the parent class method and the electricity bill method.
+Step 11: Stop.
+
+
